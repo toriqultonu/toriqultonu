@@ -37,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toriqultonu&show_icons=true&locale=en" alt="toriqultonu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toriqultonu&" alt="toriqultonu" /></p>
+
+### 👨‍💻 My stats
+<img src = "https://metrics.lecoq.io/Amimul1234?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&stackoverflow=1&people=1&isocalendar.duration=full-year&people.limit=28&people.size=28&people.types=followers&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&stackoverflow.user=11928455&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FDhaka"/>
