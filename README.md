@@ -34,6 +34,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toriqultonu&show_icons=true&locale=en&layout=compact" alt="toriqultonu" /></p>
 
+### 🏆 Github Stats
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=toriqultonu&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=toriqultonu&theme=dark&show_icons=true&hide_border=true" width="48%" >
+
+  <p align="center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=toriqultonu&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%"/>
+  </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toriqultonu&show_icons=true&locale=en" alt="toriqultonu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toriqultonu&" alt="toriqultonu" /></p>
