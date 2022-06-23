@@ -4,7 +4,7 @@
 ### Total Profile Visitors 👀
 <img src="https://profile-counter.glitch.me/toriqultonu/count.svg" alt="Visitor Count"/>
 
-##Trophies
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toriqultonu" alt="toriqultonu" /></a> </p>
 
 
