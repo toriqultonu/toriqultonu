@@ -7,13 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toriqultonu" alt="toriqultonu" /></a> </p>
 
-- 🔭 I’m currently working on **Tution Khata**
-
-- 🌱 I’m currently learning **Brownie, Truffle**
-
-- 👯 I’m looking to collaborate on **Tution Khata**
-
-- 💬 Ask me about **Flutter, Java**
 
 - 📫 How to reach me **toriqultonu22@gmail.com**
 
