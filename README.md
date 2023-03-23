@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toriqul Islam</h1>
-<h3 align="center">A passionate flutter developer and block-chain enthusiast</h3>
+<h3 align="center">A passionate flutter developer and block-chain enthusiast, currently learning PyTorch</h3>
 
 ### Total Profile Visitors 👀
 <img src="https://profile-counter.glitch.me/toriqultonu/count.svg" alt="Visitor Count"/>
