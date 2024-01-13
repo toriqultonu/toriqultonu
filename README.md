@@ -23,8 +23,46 @@
 <a href="mailto:toriqultonu22@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/toriqultonu/toriqultonu/2c16126847f49da858aa6040722b57b8d9ed20f6/svgs/google-gmail.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## Skills and Competencies
+
+#### Technologies:
+[<img height="25" src="https://img.shields.io/badge/-SpringBoot-001100?style=flat-square&logo=springboot" />][SpringBoot]
+[<img height="25" src="https://img.shields.io/badge/-Flutter-42A5F5?style=flat-square&logo=flutter" />][Flutter]
+[<img height="25" src="https://img.shields.io/badge/-Pytorch-001111?style=flat-square&logo=pytorch" />][Pytorch]
+
+#### Languages:
+[<img height="25" src="https://img.shields.io/badge/-Cpp-044F88?style=flat-square&logo=cplusplus" />][Cpp]
+[<img height="25" src="https://img.shields.io/badge/-Java-2233EE?style=flat-square&logo=java" />][Java]
+[<img height="25" src="https://img.shields.io/badge/-Python-FFFF00?style=flat-square&logo=python" />][Python]
+[<img height="25" src="https://img.shields.io/badge/-Dart-4597CE?style=flat-square&logo=dart" />][Dart]
+
+#### IDEs:
+[<img height="25" src="https://img.shields.io/badge/-Android%20Studio-3333AA?style=flat-square&logo=android-studio" />][Android Studio]
+[<img height="25" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea" />][IntelliJ IDEA]
+[<img height="25" src="https://img.shields.io/badge/-Jupyter-EEFFFF?style=flat-square&logo=jupyter" />][Jupyter]
+
+#### Tools:
+[<img height="25" src="https://img.shields.io/badge/-Git-EEFFFF?style=flat-square&logo=git" />][Git]
+[<img height="25" src="https://img.shields.io/badge/-Github-222233?style=flat-square&logo=github" />][Github]
+[<img height="25" src="https://img.shields.io/badge/-Firebase-1BAEEB?style=flat-square&logo=firebase" />][Firebase]
+
+[SpringBoot]:https://img.shields.io/badge/-SpringBoot-001100?style=flat-square&logo=springboot
+[Flutter]:https://img.shields.io/badge/-Flutter-42A5F5?style=flat-square&logo=flutter
+[Pytorch]:https://img.shields.io/badge/-Pytorch-001111?style=flat-square&logo=pytorch
+
+[Cpp]:https://img.shields.io/badge/-Cpp-044F88?style=flat-square&logo=cplusplus
+[Java]:https://img.shields.io/badge/-Java-2233EE?style=flat&logo=java
+[Python]:https://img.shields.io/badge/-Python-FFFF00?style=flat&logo=python
+[Dart]:https://img.shields.io/badge/-Dart-4597CE?style=flat-square&logo=dart
+
+[Android Studio]:https://img.shields.io/badge/-Android%20Studio-117711?style=flat&logo=android-studio
+[IntelliJ IDEA]:https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea
+[Jupyter]:https://img.shields.io/badge/-Jupyter-EEFFFF?style=flat&logo=jupyter
+
+[Git]:https://img.shields.io/badge/-Git-EEFFFF?style=flat&logo=git
+[Github]:https://img.shields.io/badge/-Github-222233?style=flat&logo=github
+[Firebase]:https://img.shields.io/badge/-Firebase-1BAEEB?style=flat&logo=firebase
+
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toriqultonu&show_icons=true&locale=en&layout=compact" alt="toriqultonu" /></p> -->
 
