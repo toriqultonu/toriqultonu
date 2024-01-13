@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/toriqul islam tonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/toriqultonu/toriqultonu/2c16126847f49da858aa6040722b57b8d9ed20f6/svgs/linked-in-alt.svg" alt="toriqul islam tonu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/toriqul-islam-t-9b6000133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/toriqultonu/toriqultonu/2c16126847f49da858aa6040722b57b8d9ed20f6/svgs/linked-in-alt.svg" alt="toriqul islam tonu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/toriqultonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/toriqultonu/toriqultonu/2c16126847f49da858aa6040722b57b8d9ed20f6/svgs/stack-overflow.svg" alt="toriqultonu" height="30" width="40" /></a>
-<a href="https://fb.com/toriqul islam tonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/toriqultonu/toriqultonu/2c16126847f49da858aa6040722b57b8d9ed20f6/svgs/facebook.svg" alt="toriqul islam tonu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/toriqul.tonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/toriqultonu/toriqultonu/2c16126847f49da858aa6040722b57b8d9ed20f6/svgs/facebook.svg" alt="toriqul islam tonu" height="30" width="40" /></a>
 <a href="https://twitter.com/ToriqulTonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/toriqultonu/toriqultonu/2c16126847f49da858aa6040722b57b8d9ed20f6/svgs/logo-x-twitter.svg" height="30" width="40" /></a>
 <a href="mailto:toriqultonu22@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/toriqultonu/toriqultonu/2c16126847f49da858aa6040722b57b8d9ed20f6/svgs/google-gmail.svg" height="30" width="40" /></a>
 </p>
