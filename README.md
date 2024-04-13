@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toriqul Islam</h1>
-<h3 align="center">A passionate flutter developer and block-chain enthusiast, currently learning PyTorch</h3>
+<h3 align="center">A passionate flutter and java developer, currently learning PyTorch</h3>
 
 ### Total Profile Visitors 👀
 <img src="https://profile-counter.glitch.me/toriqultonu/count.svg" alt="Visitor Count"/>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **toriqultonu22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MFWqvFV3bAjq8oqmH4S5xUJ32DDD9FtE/view?usp=sharing](https://drive.google.com/file/d/1MFWqvFV3bAjq8oqmH4S5xUJ32DDD9FtE/view?usp=sharing)
+- 📄 Know about me [click here](https://toriqultonu.github.io/my_portfolio/)
 
 - ⚡ Fun fact **I can drink 4 cock at a time**
 
