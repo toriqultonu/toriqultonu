@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toriqul Islam</h1>
-<h3 align="center">A passionate flutter and java developer, currently learning PyTorch</h3>
+<h3 align="center">A passionate software engineer, currently working in Android, Springboot</h3>
 
 ### Total Profile Visitors 👀
 <img src="https://profile-counter.glitch.me/toriqultonu/count.svg" alt="Visitor Count"/>
